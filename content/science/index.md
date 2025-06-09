@@ -21,8 +21,10 @@ OpenBind aims to:
 OpenBind's senior consortium Principal Investigators are: 
 * [Professor Frank von Delft]() ([Diamond Light Source](https://www.diamond.ac.uk/Home.html) [XChem](https://www.diamond.ac.uk/Instruments/Mx/Fragment-Screening.html) and [University of Oxford](https://www.ox.ac.uk/) [Centre for Medicines Discovery](https://www.cmd.ox.ac.uk/)) 
 * [Professor Charlotte Deane](https://www.stats.ox.ac.uk/people/charlotte-deane) ([University of Oxford](https://www.ox.ac.uk/) [Protein Informatics Group](https://opig.stats.ox.ac.uk/)) 
-* [Dr John Chodera](http://choderalab.org) ([Memorial Sloan Kettering Cancer Center](http://mskcc.org) [Computational and Systems Biology Program](https://www.mskcc.org/research/ski/programs/computational-biology)) 
-* [Dr Mark Murcko](https://relaytx.com/our-team/mark-murcko/) ([Relay Therapeutics](https://relaytx.com/)) 
+* [Professor Sir David Stuart](https://www.ndm.ox.ac.uk/team/david-stuart) ([Diamond Light Source](https://www.diamond.ac.uk/Home.html))
+* [Dr Martin Walsh](https://www.diamond.ac.uk/Instruments/Mx/Research/Walsh-group/Staff/Martin-Walsh.html) ([Diamond Light Source](https://www.diamond.ac.uk/Home.html))
+* [Professor John Chodera](http://choderalab.org) ([Memorial Sloan Kettering Cancer Center](http://mskcc.org) [Computational and Systems Biology Program](https://www.mskcc.org/research/ski/programs/computational-biology)) 
+* [Dr Mark Murcko](https://relaytx.com/our-team/mark-murcko/) ([MIT](https://www.mit.edu/) and [Disruptive Biomedical](https://disruptivebiomedical.wordpress.com/)) 
 * [Professor Mohammed AlQuraishi](https://systemsbiology.columbia.edu/faculty/mohammed-alquraishi) ([Columbia University](https://www.columbia.edu/) [Systems Biology](https://systemsbiology.columbia.edu/) and [OpenFold](http://openfold.io))  
 * [Professor David Baker](https://www.ipd.uw.edu/david-baker/) ([University of Washington](https://www.washington.edu/) [Institute for Protein Design](https://www.ipd.uw.edu/)) 
 * [Dr Ed Griffen](https://www.medchemica.com/team/griffen-ed-j/) ([MedChemica](https://www.medchemica.com/)) 
