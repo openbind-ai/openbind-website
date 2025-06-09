@@ -1,4 +1,4 @@
-baseurl = "http://openbind.org/"
+baseurl = "https://openbind.org/"
 title = "OpenBind"
 theme = "hugo-theme-console"
 languageCode = "en-us"
