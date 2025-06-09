@@ -1,15 +1,12 @@
 {{ define "main" }}
 
-<!-- <h1>About</h1> -->
-
 <p><b>OpenBind</b> is generating foundational structural biology data to power the next era of AI/ML for drug discovery.</p>
-
-<!-- <p><b>OpenBind</b> is powering a revolution in AI for drug discovery through data. -->
 
 <p>OpenBind is an open science initiative accelerating drug discovery by generating massive, high-quality, fit-for-purpose protein-ligand structure and affinity datasets.
 By combining automated crystallography, microscale chemistry, open-source models, and blind community challenges, OpenBind powers the next generation of machine learning tools 
 for structure-based drug design, freely available to all.</p>
 
+<!-- Commented out for now.
 <p><a href="about/">Learn more about OpenBind.</a></p>
 
 <br/>
@@ -26,23 +23,6 @@ for structure-based drug design, freely available to all.</p>
                 {{ .Summary }}
             </p>
         </div>    
-    {{ end }}
-{{ end }}
-</div>
-
-<!--
-<h1>Latest photos</h1>
-
-<div class="image-grid">
-{{ with .Site.GetPage "/photos" }}
-    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
-        <a href="{{ .Permalink }}" title="{{ .Title }}">
-        {{ $image := .Page.Resources.GetMatch .Params.image }}
-        {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
-            <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
-        {{end}}
-        </a>
     {{ end }}
 {{ end }}
 </div>

@@ -13,17 +13,17 @@ enableRobotsTXT = true
   # To disable animations, please remove or comment animationStyle parameter
   animateStyle = "animated zoomIn fast" 
 
-  [[params.navlinks]]
-  name = "about/"
-  url = "about/"
+#  [[params.navlinks]]
+#  name = "about/"
+#  url = "about/"
 
-  [[params.navlinks]]
-  name = "news/"
-  url = "news/"
+#  [[params.navlinks]]
+#  name = "news/"
+#  url = "news/"
   
-  [[params.navlinks]]
-  name = "science/"
-  url = "science/"
+#  [[params.navlinks]]
+#  name = "science/"
+#  url = "science/"
 
   [[params.navlinks]]
   name = "contact/"
