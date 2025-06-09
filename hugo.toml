@@ -1,0 +1,32 @@
+baseurl = "https://openbind.org/"
+title = "OpenBind"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "about/"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "news/"
+  url = "news/"
+  
+  [[params.navlinks]]
+  name = "science/"
+  url = "science/"
+
+  [[params.navlinks]]
+  name = "contact/"
+  url = "contact/"
+
+  [[params.navlinks]]
+  name = "join/"
+  url = "join/"
