@@ -1,6 +1,6 @@
 # OpenBind website source
 
-This website is built with [`hugo`](https://gohugo.io) hosted by [GitHub Pages](https://pages.github.com/) at `http://openbind.org`. The website content is in the `gh-pages` branch of this repo.
+This website is built with [`hugo`](https://gohugo.io) hosted by [GitHub Pages](https://pages.github.com/) at http://openbind.org. The website content is in the `gh-pages` branch of this repo.
 
 ## Preview the website locally
 
