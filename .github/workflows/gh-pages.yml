@@ -1,7 +1,6 @@
 name: github pages
-permissions:
-  actions: read|write
-  pull-requests: read|write
+
+permissions: read-all
 
 on:
   push:
