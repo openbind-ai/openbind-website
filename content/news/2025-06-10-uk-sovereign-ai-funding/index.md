@@ -16,5 +16,4 @@ OpenBind will create the largest open experimental dataset of protein-small mole
 To do this, OpenBind will deploy automated chemistry, protein design, advanced open source AI/ML models, and high-throughput X-ray crystallography to ultimately generate more than 500,000 protein–ligand complex structures and paired high-quality affinity measurements over 5 years. This would represent a 20-fold increase over all public protein-ligand structure data produced in the last half-century, filling a critical gap in the data ecosystem that has slowed the development and evaluation of modern generative models.  
 
 
-Read the [full press release here](https://www.gov.uk/government/news/uk-to-become-world-leader-in-drug-discovery-as-technology-secretary-heads-for-london-tech-week), or learn more about [the science behind OpenBind](/science).
----
+Read the [full press release here](https://www.gov.uk/government/news/uk-to-become-world-leader-in-drug-discovery-as-technology-secretary-heads-for-london-tech-week).
