@@ -3,7 +3,7 @@ title = "OpenBind"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
